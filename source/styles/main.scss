@@ -1,4 +1,6 @@
-body {
-	display: flex;
-	background-color: mistyrose;
-}
+@import "common";
+@import "layout";
+@import "work";
+@import "blogs";
+@import "home";
+@import "about";
